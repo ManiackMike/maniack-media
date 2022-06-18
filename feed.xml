@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:B2D22DBE-94AE-4F0C-8E55-6D8F0B0A729C</id>
  <title>Page list Atom feed</title>
- <updated>2022-05-29T09:22:44+02:00</updated>
+ <updated>2022-06-18T23:51:47+02:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">34CFB279-257D-4859-ABE8-AA43DEE0500B</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2022-05-29T09:22:44.001+02:00</updated>
+  <updated>2022-06-18T23:51:47.001+02:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">iPhone Network</title>
   <in-navbar xmlns="urn:iweb:">EF7193C7-3C37-42BC-9196-252D1B813333</in-navbar>
   <link rel="alternate" href="iPhone_Network.html"/>
-  <updated>2022-05-29T09:22:44.002+02:00</updated>
+  <updated>2022-06-18T23:51:47.002+02:00</updated>
   <content>iPhone Network</content>
  </entry>
  <entry>
@@ -32,8 +32,17 @@
   <title xmlns="urn:iweb:">Notizie</title>
   <in-navbar xmlns="urn:iweb:">F6800EFA-6308-43A4-97CD-6A4CB3AFF0DA</in-navbar>
   <link rel="alternate" href="Notizie.html"/>
-  <updated>2022-05-29T09:22:44.003+02:00</updated>
+  <updated>2022-06-18T23:51:47.003+02:00</updated>
   <content>Notizie</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:82884803-F9FC-4A0A-A430-D7873CAB0DD0</id>
+  <title>Pidgeon Messenger</title>
+  <title xmlns="urn:iweb:">Pidgeon Messenger</title>
+  <in-navbar xmlns="urn:iweb:">82884803-F9FC-4A0A-A430-D7873CAB0DD0</in-navbar>
+  <link rel="alternate" href="Pidgeon_Messenger.html"/>
+  <updated>2022-06-18T23:51:47.004+02:00</updated>
+  <content>Pidgeon Messenger</content>
  </entry>
  <entry>
   <id>urn:iweb:C74EDEBD-C2B9-404B-BDBB-26CF0280BFE1</id>
@@ -41,7 +50,7 @@
   <title xmlns="urn:iweb:">Progetti</title>
   <in-navbar xmlns="urn:iweb:">C74EDEBD-C2B9-404B-BDBB-26CF0280BFE1</in-navbar>
   <link rel="alternate" href="Progetti.html"/>
-  <updated>2022-05-29T09:22:44.004+02:00</updated>
+  <updated>2022-06-18T23:51:47.005+02:00</updated>
   <content>Progetti</content>
  </entry>
 </feed>
